@@ -8,4 +8,4 @@ matplotlib
 seaborn
 xlrd
 plotly
-tensorflow==2.17.0
+tensorflow
