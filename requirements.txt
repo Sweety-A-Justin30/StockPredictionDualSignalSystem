@@ -7,3 +7,4 @@ lifetimes
 matplotlib
 seaborn
 xlrd
+plotly
