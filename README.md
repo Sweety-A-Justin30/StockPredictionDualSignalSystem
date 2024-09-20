@@ -1,4 +1,10 @@
 check in here:  https://stockpricepredictionlstm30.streamlit.app/
+app images:
+<img width="330" alt="Screenshot 2024-09-20 at 12 49 55 PM" src="https://github.com/user-attachments/assets/0e5008d6-9e04-4137-a11f-a3a84236729d">
+<img width="915" alt="Screenshot 2024-09-20 at 12 50 47 PM" src="https://github.com/user-attachments/assets/cef48cbd-b0ec-4bbc-ba82-4669c9bdeb20">
+<img width="915" alt="Screenshot 2024-09-20 at 12 51 28 PM" src="https://github.com/user-attachments/assets/58d57dc8-bacb-4173-8f8a-b38c27452c11">
+<img width="915" alt="Screenshot 2024-09-20 at 12 52 02 PM" src="https://github.com/user-attachments/assets/a71b8622-4d5d-4b36-9869-594bc0e51a0e">
+
 
 # StockPredictionDualSignalSystem
 Stock price prediction using technical indicators with dual signal and alert system
@@ -6,7 +12,6 @@ Stock price prediction using technical indicators with dual signal and alert sys
 The stock price prediction model used in this project is LSTM which is a type of recurrent neural network that is particularly efficient for sequential data. In essence, the goal of this model is to predict future stock prices and provide trading signals that existing and potential investors can use to make sound decisions.
 
 To improve the efficiency of the prediction, the model includes a dual signal system. For existing investors, it produces ‘Buy,’ ‘Sell,’ or ‘Hold’ signals depending on the position of the short-term and long-term EMAs. For new investors, another signal is added, ‘Consider Entry,’ when the market is not bearish but not necessarily bullish for a strong buy signal. This system ensures that both groups of investors are provided with relevant information for market operations.
-
 
 In a stock price prediction system, the architecture typically includes:
 
@@ -19,7 +24,7 @@ In a stock price prediction system, the architecture typically includes:
 	•	Forecasting: Applies the trained model to forecast future stock prices.
  
 	•	Signal Detection: Analyzes the forecasted data to generate trading signals (Buy, Sell, Hold) based on technical indicators.
- 
+
 	•	Alert System: Monitors for significant market changes and triggers alerts for potential risks.
 
 Criteria for the signals are:
