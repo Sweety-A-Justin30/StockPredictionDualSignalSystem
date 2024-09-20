@@ -1,9 +1,9 @@
 check in here:  https://stockpricepredictionlstm30.streamlit.app/
-app images:
-<img width="330" alt="Screenshot 2024-09-20 at 12 49 55 PM" src="https://github.com/user-attachments/assets/0e5008d6-9e04-4137-a11f-a3a84236729d">
-<img width="915" alt="Screenshot 2024-09-20 at 12 50 47 PM" src="https://github.com/user-attachments/assets/cef48cbd-b0ec-4bbc-ba82-4669c9bdeb20">
-<img width="915" alt="Screenshot 2024-09-20 at 12 51 28 PM" src="https://github.com/user-attachments/assets/58d57dc8-bacb-4173-8f8a-b38c27452c11">
-<img width="915" alt="Screenshot 2024-09-20 at 12 52 02 PM" src="https://github.com/user-attachments/assets/a71b8622-4d5d-4b36-9869-594bc0e51a0e">
+
+<img width="250" alt="Screenshot 2024-09-20 at 12 49 55 PM" src="https://github.com/user-attachments/assets/0e5008d6-9e04-4137-a11f-a3a84236729d">
+<img width="500" alt="Screenshot 2024-09-20 at 12 50 47 PM" src="https://github.com/user-attachments/assets/cef48cbd-b0ec-4bbc-ba82-4669c9bdeb20">
+<img width="500" alt="Screenshot 2024-09-20 at 12 51 28 PM" src="https://github.com/user-attachments/assets/58d57dc8-bacb-4173-8f8a-b38c27452c11">
+<img width="500" alt="Screenshot 2024-09-20 at 12 52 02 PM" src="https://github.com/user-attachments/assets/a71b8622-4d5d-4b36-9869-594bc0e51a0e">
 
 
 # StockPredictionDualSignalSystem
